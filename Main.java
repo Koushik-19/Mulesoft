@@ -78,7 +78,7 @@ public class Main {
     public static void main(String args[]) {
         Main app = new Main();
         app.createtb();
-        app.insert("vikram", "Kamal", "gayathri", "Lokesh", 2021);
+        app.insert("Mankatha", "Ajith", "Trisha", "Venkat Prabhu", 2017);
         app.selectAll();
     }
 }
